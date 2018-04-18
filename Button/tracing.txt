@@ -1,0 +1,6 @@
+Clicked button << save >>
+Clicked button << save >>
+Clicked button << save >>
+Clicked button << brightness+ >>
+Clicked button << brightness+ >>
+Clicked button << exit >>
